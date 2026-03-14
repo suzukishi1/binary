@@ -1,7 +1,7 @@
 apple
 banana
 cherry
-4
+dog
 5
 6
 7 dev-c change
